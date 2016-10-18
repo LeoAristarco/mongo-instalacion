@@ -1,4 +1,4 @@
-# mongo-instalacion (2.4.14)
+# mongo-instalacion (2.4.14) 32bits
 
 
 llave pública GPG y crear el archivo de fuentes:
