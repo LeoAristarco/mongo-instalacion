@@ -14,5 +14,3 @@ $ sudo apt-get update
 $ sudo apt-get install mongodb-10gen
 ...
 
-
-$ sudo apt-get install -o apt::architecture=amd64 mongodb-10gen
